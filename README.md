@@ -4,7 +4,7 @@
 
 ## Description
 
-This application is just another text editor in short. It is a progressive web app that allows users to edit text with JavaScript syntax highlighting. You can install the text editor on your local machine for offline 
+This application is just another text editor in short. It is a progressive web app that allows users to edit text with JavaScript syntax highlighting. You can install the text editor on your local machine for offline viewing and siving. It uses indexed DB to save the text in addition to local storage so that you don't have to worry about reloading the page.
 
 ## Installation
 
