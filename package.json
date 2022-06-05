@@ -6,7 +6,7 @@
   "scripts": {
     "start:dev": "cd client && npm run dev && cd ../server && nodemon server.js",
     "start": "cd client && npm run build && cd ../server && node server.js",
-    "server": "node server/server.js",
+    "server": "cd server && node server.js",
     "build": "cd client && npm run build",
     "install": "cd client && npm install && cd ../server && npm install"
   },
